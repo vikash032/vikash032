@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vikash Singh</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Data Science Enthusiast | Final-Year Undergraduate at Delhi University</h3>
+<h1 align="center">Hi 👋, I'm Vikash Yadav</h1>
+<h3 align="center">Aspiring Machine Learning Engineer  |Student Delhi University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikash032&label=Profile%20views&color=0e75b6&style=flat" alt="vikash032" />
@@ -7,11 +7,9 @@
 
 ---
 
-🎓 I’m currently a final-year student at **ARSD College, University of Delhi**, pursuing **BSc in Physical Sciences with Computer Science** under the NEP curriculum.  
-💡 My goal is to become a skilled **Machine Learning Engineer** with a focus on **Computer Vision**, **AI**, and **financial modeling**.  
+🎓 I’m currently a student at **ARSD College, University of Delhi**, pursuing **BS in Computer Science** .  
+💡 My goal is to become a skilled **Machine Learning Engineer**.  
 📊 I have hands-on experience building **Streamlit dashboards**, using **Prophet + LSTM hybrid models**, **FAISS search engines**, and **Deep Learning-based recommender systems**.  
-📚 I'm also exploring **cloud platforms like AWS**, **SQL for data analysis**, and **MLOps practices** for deployment-ready projects.
-
 ---
 
 ## 🚀 Projects Showcase
@@ -44,7 +42,7 @@
 ## 📫 Connect with Me
 
 - 📍 Location: **New Delhi, India**
-- ✉️ Email: `youremail@example.com` <!-- (replace if you want to show your real email) -->
+- ✉️ Email: `vikashydv0327@gmail.com` <!-- (replace if you want to show your real email) -->
 - 🔗 [LinkedIn](https://linkedin.com/in/your-profile) <!-- (replace with your real link) -->
 - 🌐 [Portfolio (optional)](https://yourportfolio.com) <!-- optional -->
 
